@@ -1,12 +1,11 @@
 .App {
   text-align: center;
-  color: red;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(214, 126, 126);
+  font-family: Georgia, "Times New Roman", Times, serif;
   background-color: black;
-
 }
 
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -22,8 +21,6 @@
   }
 }
 
-
-
 .App-link {
   color: #61dafb;
 }
@@ -37,13 +34,13 @@
   }
 }
 
-.movies{
+.movies {
   margin-top: 50px;
 }
 
-.search{
+.search {
   text-align: center;
-  
-  margin-bottom: 50px;
 
+  margin-bottom: 50px;
+  color: purple;
 }
